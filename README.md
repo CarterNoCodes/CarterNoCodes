@@ -1,3 +1,7 @@
+
+![9dj2iigrdwj2waerghc3](https://github.com/user-attachments/assets/0500fa77-7126-4eef-9579-b05046f46b3a)
+
+
 ### Hi there 👋, My name is Carter
 #### Exploring the World of Web3 Development
 ![Exploring the World of Web3 Development](https://pbs.twimg.com/profile_banners/460495562/1677351328/600x200)
