@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Autobrand and Solstash
   
-- 🌱 I’m currently learning CSS and Solidity
+- 🌱 I’m currently learning CSS JS and Solidity
   
 - 💬 Ask me about
   
