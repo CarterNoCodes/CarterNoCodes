@@ -1,11 +1,11 @@
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/85d2b461-3061-47c2-80ac-0ba4c197bb57)
 
-### Hi there 👋, My name is Carter
+# Hi there 👋, My name is Carter Holds
 
 ![Exploring the World of Web3 Development](https://pbs.twimg.com/profile_banners/460495562/1677351328/600x200)
 
 
-#### Exploring the World of Web3 Development
+## Exploring the World of Web3 Development
 
 Solopreneur, Founder and  Developer  - Exploring the world of No Code Development, Gaming, Web3, Cryptocurrency, and SaaS
 
