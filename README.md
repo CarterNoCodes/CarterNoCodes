@@ -4,7 +4,7 @@
 
 ![github banner template](https://github.com/user-attachments/assets/860b94cd-888f-4e90-beb8-c05040f0a7d3)
 
-## Exploring the World of Web3 Development
+# Exploring the World of Web3 Development
 Solopreneur, Founder and  Developer  - Exploring the world of No Code Development, Gaming, Web3, Cryptocurrency, and SaaS
 
 
@@ -13,8 +13,7 @@ Solopreneur, Founder and  Developer  - Exploring the world of No Code Developmen
 - 🌱 I’m currently learning Solidity and Rust
 
 
-
-#Skills and Experience
+# Skills and Experience
 
 ![image](https://github.com/user-attachments/assets/74700329-ba07-4d05-84d6-6fa7cc2025dc)
 
