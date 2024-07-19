@@ -20,4 +20,6 @@ Solopreneur, Founder and  Developer  - Exploring the world of No Code Developmen
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=CarterNoCodes)  
 
-![Snake animation](https://github.com/{{CarterNoCodes}}/{{CarterNoCodes}}/blob/output/github-contribution-grid-snake.svg)
+![carter](https://github.com/user-attachments/assets/e60d41de-ee79-4b19-a4fe-d87012660fea)
+
+![githubbanner](https://github.com/user-attachments/assets/90262065-5d53-4f75-8281-7a075f325e1e)
