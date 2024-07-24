@@ -7,7 +7,7 @@
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/85d2b461-3061-47c2-80ac-0ba4c197bb57)
 
 <div align="center">
-<h1>Exploring the World of Web3 Development</h1>
+<h2>Exploring the World of Web3 Development</h2>
 <p>Solopreneur, Founder and  Developer  - Exploring the world of No Code Development, Gaming, Web3, Cryptocurrency, and SaaS</p>
 
 
