@@ -32,6 +32,6 @@
 
 ![githubbanner](https://github.com/user-attachments/assets/90262065-5d53-4f75-8281-7a075f325e1e)
 
-![carter](https://github.com/user-attachments/assets/e60d41de-ee79-4b19-a4fe-d87012660fea)
+
 
 
