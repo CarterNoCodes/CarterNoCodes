@@ -18,8 +18,9 @@
 
 ![githubbanner](https://github.com/user-attachments/assets/90262065-5d53-4f75-8281-7a075f325e1e)
 
+![toolsused](https://github.com/user-attachments/assets/60539585-2c5e-477c-8463-4afff4d5583d)
 
-![Black White Simple Business Twitter Header](https://github.com/user-attachments/assets/7e1805eb-abd4-42a7-b5bd-60f50baa0f90)
+
 
 </p>
 
