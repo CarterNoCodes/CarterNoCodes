@@ -16,7 +16,7 @@
 
 <p align="center">
 
-![githubbanner](https://github.com/user-attachments/assets/90262065-5d53-4f75-8281-7a075f325e1e)
+
 
 ![toolsused](https://github.com/user-attachments/assets/60539585-2c5e-477c-8463-4afff4d5583d)
 
@@ -29,6 +29,8 @@
 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=CarterNoCodes)  
+
+![githubbanner](https://github.com/user-attachments/assets/90262065-5d53-4f75-8281-7a075f325e1e)
 
 </div 
 
