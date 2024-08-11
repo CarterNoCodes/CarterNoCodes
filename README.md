@@ -1,36 +1,26 @@
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/791907c1-7da4-48c6-a518-e897fcb4b5fa" alt="Twitter Header" style="width: 100%; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
 
-  ![Twitter Header](https://github.com/user-attachments/assets/791907c1-7da4-48c6-a518-e897fcb4b5fa)
+  <div style="background: rgba(255, 255, 255, 0.25); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border-radius: 10px; border: 1px solid rgba(255, 255, 255, 0.18); padding: 20px; margin-top: 20px;">
+    <h2 style="color: #333; font-size: 28px; margin-bottom: 10px;">Exploring the World of Web3 Development</h2>
+    <p style="color: #666; font-size: 16px; line-height: 1.5;">Solopreneur, Founder and Developer - Exploring the world of No Code Development, Gaming, Web3, Cryptocurrency, and SaaS</p>
 
-<div align="center">
-<h2>Exploring the World of Web3 Development</h2>
-<p>Solopreneur, Founder and  Developer  - Exploring the world of No Code Development, Gaming, Web3, Cryptocurrency, and SaaS</p>
-
-
-
-<p>🔭 I’m currently working on AutoBrand and SolStash.</p> 
-<p>🌱 I’m currently learning Solidity and Rust</p>
-
-
-
+## 🚀 Current Projects and Learning
 
 <p align="center">
-
-
-
-![toolsused](https://github.com/user-attachments/assets/60539585-2c5e-477c-8463-4afff4d5583d)
-
-
-
+- 🔭 I'm currently working on AutoBrand and SolStash. <br>
+- 🌱 I'm currently learning Solidity and Rust.
 </p>
 
+## 🛠 Tools and Technologies
 
+![Tools Used](https://github.com/user-attachments/assets/60539585-2c5e-477c-8463-4afff4d5583d)
+  </div>
 
+## 🚀 Featured Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=autobrand&theme=dark)](https://github.com/CarterNoCodes/autobrand)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=AI-Coding-Assistant&theme=dark)](https://github.com/CarterNoCodes/AI-Coding-Assistant)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=Solstash&theme=dark)](https://github.com/CarterNoCodes/Solstash)
 
-
-
-
-![githubbanner](https://github.com/user-attachments/assets/90262065-5d53-4f75-8281-7a075f325e1e)
-
-</div 
-
+  <img src="https://github.com/user-attachments/assets/90262065-5d53-4f75-8281-7a075f325e1e" alt="GitHub Banner" style="width: 100%; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); margin-top: 30px;">
+</div>
