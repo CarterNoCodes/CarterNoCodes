@@ -5,14 +5,18 @@
     <h2 style="color: #333; font-size: 28px; margin-bottom: 10px;">Exploring the World of Web3 Development</h2>
     <p style="color: #666; font-size: 16px; line-height: 1.5;">Solopreneur, Founder and Developer - Exploring the world of No Code Development, Gaming, Web3, Cryptocurrency, and SaaS</p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarterNoCodes&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterNoCodes&show_icons=true&theme=dark)
+
 ## 🚀 Current Projects and Learning
 
 <p align="center">
-- 🔭 I'm currently working on AutoBrand and SolStash. <br>
+- 🔭 I'm currently working on AutoBrand and SolStash. <br> 
 - 🌱 I'm currently learning Solidity and Rust.
 </p>
 
-## 🛠 Tools and Technologies
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterNoCodes&layout=compact&theme=dark)
 
 ![Tools Used](https://github.com/user-attachments/assets/60539585-2c5e-477c-8463-4afff4d5583d)
   </div>
@@ -21,6 +25,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=autobrand&theme=dark)](https://github.com/CarterNoCodes/autobrand)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=AI-Coding-Assistant&theme=dark)](https://github.com/CarterNoCodes/AI-Coding-Assistant)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=Solstash&theme=dark)](https://github.com/CarterNoCodes/Solstash)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarterNoCodes&theme=dark)
 
   <img src="https://github.com/user-attachments/assets/90262065-5d53-4f75-8281-7a075f325e1e" alt="GitHub Banner" style="width: 100%; border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37); margin-top: 30px;">
 </div>
