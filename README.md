@@ -7,6 +7,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarterNoCodes&theme=dark)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterNoCodes&show_icons=true&theme=dark)
+![download](https://github.com/user-attachments/assets/a91c36f1-f70d-413f-8450-c56607c03c66)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterNoCodes&layout=compact&theme=dark)
 
 ## 🚀 Current Projects and Learning
 
@@ -14,9 +16,6 @@
 - 🔭 I'm currently working on AutoBrand and SolStash. <br> 
 - 🌱 I'm currently learning Solidity and Rust.
 </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterNoCodes&layout=compact&theme=dark)
 
 ![Tools Used](https://github.com/user-attachments/assets/60539585-2c5e-477c-8463-4afff4d5583d)
   </div>
