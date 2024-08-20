@@ -5,19 +5,20 @@
     <h2 style="color: #333; font-size: 28px; margin-bottom: 10px;">Exploring the World of Web3 Development</h2>
     <p style="color: #666; font-size: 16px; line-height: 1.5;">Solopreneur, Founder and Developer - Exploring the world of No Code Development, Gaming, Web3, Cryptocurrency, and SaaS</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CarterNoCodes&theme=dark)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CarterNoCodes&show_icons=true&theme=dark)
+
 ![download](https://github.com/user-attachments/assets/a91c36f1-f70d-413f-8450-c56607c03c66)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarterNoCodes&layout=compact&theme=dark)
+
+
+![Tools Used](https://github.com/user-attachments/assets/60539585-2c5e-477c-8463-4afff4d5583d)
 
 ## 🚀 Current Projects and Learning
 
 <p align="center">
-- 🔭 I'm currently working on AutoBrand and SolStash. <br> 
-- 🌱 I'm currently learning Solidity and Rust.
+- 🔭 I'm currently working on AutoBrand and a AI Coding Chatbot. <br> 
+- 🌱 I'm currently learning React, Node.js, Python.
 </p>
 
-![Tools Used](https://github.com/user-attachments/assets/60539585-2c5e-477c-8463-4afff4d5583d)
   </div>
 
 ## 🚀 Featured Projects
