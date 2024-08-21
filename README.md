@@ -23,7 +23,7 @@
 
 ## 🚀 Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=autobrand&theme=dark)](https://github.com/CarterNoCodes/autobrand)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=AI-ChatBot-Full&theme=dark)]([https://github.com/CarterNoCodes/AI-Coding-Assistant](https://github.com/CarterNoCodes/AI-ChatBot-Full))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CarterNoCodes&repo=AI-ChatBot-Full&theme=dark)]((https://github.com/CarterNoCodes/AI-ChatBot-Full))
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarterNoCodes&theme=dark)
 
